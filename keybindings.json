@@ -1,0 +1,19 @@
+// Place your key bindings in this file to override the defaultsauto[]
+[
+  {
+    "key": "cmd+k cmd+d",
+    "command": "editor.action.formatDocument"
+  },
+  {
+    "key": "ctrl+alt+b",
+    "command": "-editor.action.formatDocument"
+  },
+  {
+    "key": "end",
+    "command": "workbench.action.navigateForwardInNavigationLocations"
+  },
+  {
+    "key": "pagedown",
+    "command": "workbench.action.navigatePreviousInNavigationLocations"
+  }
+]

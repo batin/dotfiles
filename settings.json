@@ -1,0 +1,213 @@
+{
+  "files.autoSave": "afterDelay",
+  "editor.tabSize": 2,
+  "atomKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.formatOnPaste": true,
+  "jshint.enable": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.startupEditor": "newUntitledFile",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.statusBar.feedback.visible": false,
+  "workbench.tips.enabled": false,
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "java.errors.incompleteClasspath.severity": "ignore",
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": false,
+  "breadcrumbs.enabled": false,
+  "workbench.sideBar.location": "right",
+  "java.configuration.checkProjectSettingsExclusions": false,
+  "editor.autoClosingQuotes": "never",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.showSuggestionsAsSnippets": true,
+  "emmet.extensionsPath": [""],
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "vue-html": "html",
+    "razor": "html",
+    "plaintext": "jade"
+  },
+  "glitch.token": "c6311be4-4189-4f55-abc3-4742f6812bdd",
+  "C_Cpp.updateChannel": "Insiders",
+  "[c]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "files.associations": {
+    "*.cpp": "cpp",
+    "*.js": "javascript"
+  },
+  "sqltools.connections": [
+    {
+      "askForPassword": true,
+      "database": "DB",
+      "dialect": "MSSQL",
+      "isActive": false,
+      "isConnected": false,
+      "name": "DB",
+      "port": 1433,
+      "server": "localhost",
+      "username": "btnerylmz"
+    },
+    {
+      "askForPassword": false,
+      "database": "DB",
+      "dialect": "MySQL",
+      "name": "localhost",
+      "port": 3306,
+      "server": "localhost",
+      "username": "btnerylmz"
+    }
+  ],
+  "diffEditor.ignoreTrimWhitespace": false,
+  "workbench.editor.showTabs": true,
+  "workbench.colorTheme": "Field Lights",
+  "peacock.favoriteColors": [
+    {
+      "name": "Angular Red",
+      "value": "#b52e31"
+    },
+    {
+      "name": "Auth0 Orange",
+      "value": "#eb5424"
+    },
+    {
+      "name": "Azure Blue",
+      "value": "#007fff"
+    },
+    {
+      "name": "C# Purple",
+      "value": "#68217A"
+    },
+    {
+      "name": "Gatsby Purple",
+      "value": "#639"
+    },
+    {
+      "name": "Go Cyan",
+      "value": "#5dc9e2"
+    },
+    {
+      "name": "Java Blue-Gray",
+      "value": "#557c9b"
+    },
+    {
+      "name": "JavaScript Yellow",
+      "value": "#f9e64f"
+    },
+    {
+      "name": "Mandalorian Blue",
+      "value": "#1857a4"
+    },
+    {
+      "name": "Node Green",
+      "value": "#215732"
+    },
+    {
+      "name": "React Blue",
+      "value": "#00b3e6"
+    },
+    {
+      "name": "Something Different",
+      "value": "#832561"
+    },
+    {
+      "name": "Vue Green",
+      "value": "#42b883"
+    }
+  ],
+  "liveshare.publishWorkspaceInfo": true,
+  "liveshare.allowGuestTaskControl": true,
+  "liveshare.anonymousGuestApproval": "accept",
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "files.autoSaveDelay": 10000,
+  "editor.defaultFormatter": "vscode.emmet",
+  "standard.run": "onSave",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "prettier.trailingComma": "all",
+  "prettier.jsxSingleQuote": true,
+  "eslint.run": "onSave",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "tabnine.experimentalAutoImports": true,
+  "extensions.confirmedUriHandlerExtensionIds": [],
+  "markdown.preview.breaks": true,
+  "eslint.alwaysShowStatus": true,
+  "sync.autoUpload": false,
+  "sync.quietSync": true,
+  "sync.gist": "cff80793d7e6a986514836c5aeeae29d",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "extensions.ignoreRecommendations": true,
+  "material-icon-theme.activeIconPack": "react",
+  "material-icon-theme.folders.associations": {},
+  "editor.inlineSuggest.enabled": true,
+  "prettier.printWidth": 120,
+  "editor.fontFamily": "DankMono-Regular",
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.productIconTheme": "material-product-icons",
+  "turboConsoleLog.delimiterInsideMessage": "〉〉〉〉〉",
+  "turboConsoleLog.insertEnclosingClass": false,
+  "turboConsoleLog.insertEnclosingFunction": false,
+  "turboConsoleLog.includeFileNameAndLineNum": false,
+  "debug.javascript.suggestPrettyPrinting": false,
+  "[yaml]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "vsicons.dontShowNewVersionMessage": true,
+  "window.nativeTabs": true,
+  "explorer.confirmDelete": false,
+  "github.copilot.enable": {
+    "*": true,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": true
+  },
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "editor.unicodeHighlight.allowedCharacters": {
+    "ı": true
+  },
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.accessibilitySupport": "off",
+  "explorer.confirmDragAndDrop": false,
+  "workbench.editor.enablePreview": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.guides.bracketPairs": true,
+  "autoimport.doubleQuotes": true,
+  "openInGitHub.providerType": "gitlab",
+  "openInGitHub.gitHubDomain": "https://gitlab.trendyol.com/",
+  "openInGitHub.customProviderPath": "https://gitlab.trendyol.com/",
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.stickyScroll.enabled": true,
+  "window.zoomLevel": 1,
+  "redhat.telemetry.enabled": true,
+  "git.ignoreMissingGitWarning": true,
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.unicodeHighlight.invisibleCharacters": false,
+  "git.ignoreRebaseWarning": true
+}

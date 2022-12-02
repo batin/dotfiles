@@ -10,6 +10,9 @@ export INFOPATH="/opt/homebrew/share/info:${INFOPATH:-}";
 sudo chown -R $(whoami):admin /opt/homebrew
 sudo chmod -R g+w /opt/homebrew
 
+## browser
+brew install --cask google-chrome
+
 # tap
 brew tap rcmdnk/homebrew-rcmdnkpac # screen
 
@@ -26,9 +29,6 @@ brew install --cask visual-studio-code
 
 ## prototyping tool
 brew install --cask figma
-
-## browser
-brew install --cask google-chrome
 
 ## debug
 brew install --cask postman
